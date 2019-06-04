@@ -1,0 +1,12 @@
+c:\Users\Thomas\Desktop\Modelado\obj\Debug\netcoreapp3.0\Modelado.csprojAssemblyReference.cache
+c:\Users\Thomas\Desktop\Modelado\obj\Debug\netcoreapp3.0\Modelado.csproj.CoreCompileInputs.cache
+c:\Users\Thomas\Desktop\Modelado\obj\Debug\netcoreapp3.0\Modelado.AssemblyInfoInputs.cache
+c:\Users\Thomas\Desktop\Modelado\obj\Debug\netcoreapp3.0\Modelado.AssemblyInfo.cs
+c:\Users\Thomas\Desktop\Modelado\bin\Debug\netcoreapp3.0\Modelado.exe
+C:\Users\Thomas\Desktop\Modelado\bin\Debug\netcoreapp3.0\Modelado.deps.json
+C:\Users\Thomas\Desktop\Modelado\bin\Debug\netcoreapp3.0\Modelado.runtimeconfig.json
+C:\Users\Thomas\Desktop\Modelado\bin\Debug\netcoreapp3.0\Modelado.runtimeconfig.dev.json
+c:\Users\Thomas\Desktop\Modelado\bin\Debug\netcoreapp3.0\Modelado.dll
+c:\Users\Thomas\Desktop\Modelado\bin\Debug\netcoreapp3.0\Modelado.pdb
+c:\Users\Thomas\Desktop\Modelado\obj\Debug\netcoreapp3.0\Modelado.dll
+c:\Users\Thomas\Desktop\Modelado\obj\Debug\netcoreapp3.0\Modelado.pdb
