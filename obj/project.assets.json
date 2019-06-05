@@ -8,25 +8,25 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Thomas\\.nuget\\packages\\": {},
+    "C:\\Users\\Thomas Fermoselle\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thomas\\Desktop\\Modelado\\Modelado.csproj",
+      "projectUniqueName": "C:\\src\\ModeladoTelefonos\\Modelado.csproj",
       "projectName": "Modelado",
-      "projectPath": "C:\\Users\\Thomas\\Desktop\\Modelado\\Modelado.csproj",
-      "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thomas\\Desktop\\Modelado\\obj\\",
+      "projectPath": "C:\\src\\ModeladoTelefonos\\Modelado.csproj",
+      "packagesPath": "C:\\Users\\Thomas Fermoselle\\.nuget\\packages\\",
+      "outputPath": "C:\\src\\ModeladoTelefonos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Thomas Fermoselle\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

@@ -10,3 +10,15 @@ c:\Users\Thomas\Desktop\Modelado\bin\Debug\netcoreapp3.0\Modelado.dll
 c:\Users\Thomas\Desktop\Modelado\bin\Debug\netcoreapp3.0\Modelado.pdb
 c:\Users\Thomas\Desktop\Modelado\obj\Debug\netcoreapp3.0\Modelado.dll
 c:\Users\Thomas\Desktop\Modelado\obj\Debug\netcoreapp3.0\Modelado.pdb
+c:\src\ModeladoTelefonos\obj\Debug\netcoreapp3.0\Modelado.csprojAssemblyReference.cache
+c:\src\ModeladoTelefonos\obj\Debug\netcoreapp3.0\Modelado.csproj.CoreCompileInputs.cache
+c:\src\ModeladoTelefonos\obj\Debug\netcoreapp3.0\Modelado.AssemblyInfoInputs.cache
+c:\src\ModeladoTelefonos\obj\Debug\netcoreapp3.0\Modelado.AssemblyInfo.cs
+c:\src\ModeladoTelefonos\obj\Debug\netcoreapp3.0\Modelado.dll
+c:\src\ModeladoTelefonos\obj\Debug\netcoreapp3.0\Modelado.pdb
+c:\src\ModeladoTelefonos\bin\Debug\netcoreapp3.0\Modelado.exe
+C:\src\ModeladoTelefonos\bin\Debug\netcoreapp3.0\Modelado.deps.json
+C:\src\ModeladoTelefonos\bin\Debug\netcoreapp3.0\Modelado.runtimeconfig.json
+C:\src\ModeladoTelefonos\bin\Debug\netcoreapp3.0\Modelado.runtimeconfig.dev.json
+c:\src\ModeladoTelefonos\bin\Debug\netcoreapp3.0\Modelado.dll
+c:\src\ModeladoTelefonos\bin\Debug\netcoreapp3.0\Modelado.pdb

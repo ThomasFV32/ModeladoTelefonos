@@ -24,7 +24,7 @@ namespace Class
         {
             if(lContact!=null)
             {
-                var index = lContact.FindIndex(x=> x.Number == search(xe).Number);
+                var index = lContact.FindIndex(x=> x.Number == Search(xe).Number);
                 if(index != -1)
                 {
                     Contact temp = lContact[index];
@@ -48,7 +48,7 @@ namespace Class
             Func<Contact,bool> fillter_email = (p) => temp.Email is null || temp.Email == "" || p.Email == temp.Email;
             Func<Contact,bool> fillter_number = (p) => temp.Number == 0 || p.Number == temp.Number;
         
-            Func<Contact,bool> filter = (p) => (fillter_name(p) && fillter_age(p) && fillter_email(p));
+            Func<Contact,bool> filter = (p) => (fillter_name(p) && fillter_age(p) && fillter_email(p) && fillter_number(p));
             
             return (from p in lContact where filter(p) select p).Single();
         }

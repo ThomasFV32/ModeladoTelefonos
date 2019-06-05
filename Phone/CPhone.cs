@@ -26,9 +26,10 @@ namespace Phone
             return schedule.SaveContact(contact);
         }
 
-        public string DeleteContact(int number)
+        public string DeleteContact(Contact contact)
         {
-            return schedule.DeleteContact(number);
+
+            return schedule.DeleteContact(contact);
         }
     }
 }
