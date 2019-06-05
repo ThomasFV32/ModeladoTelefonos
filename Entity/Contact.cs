@@ -7,7 +7,7 @@ namespace Entity
         private string name;
         private string email;
         private  string address;
-
+        protected Contact(){}
         public Contact(int number, string name)
         {
             this.Number = number;

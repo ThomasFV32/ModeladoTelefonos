@@ -1,20 +1,33 @@
 using System;
-using Class;
-using Interface;
 using Entity;
+using Interface;
+using Class;
+
 namespace Phone
 {
-    public class MotorolaDynaTAC
+    public class Nokia1100
     {
-        COldPhone phone= new COldPhone();
+        ILContact lcontact = new CLContact();
+        CPhone phone= new CPhone();
         ICalleable calleable;
-        public void ToCall(int number)
+        
+
+        public void SaveContact(Contact contact)
+        {
+            Console.WriteLine(lcontact.SaveContact(contact));
+        }
+
+        public void DeleteContact(Contact xe)
+        {
+            Console.WriteLine(lcontact.DeleteContact(xe));
+        }
+        
+        public void ToCall(Contact contact)
         {
             if(calleable==null)
             {
                 calleable = new CCalleable();
-                var contact = new Contact(number,number.ToString());
-                Console.WriteLine(phone.ToCall(calleable,contact,DateTime.Now));
+                Console.WriteLine(phone.ToCall(calleable,lcontact.Search(contact),DateTime.Now));
             }
             else Console.WriteLine("Is already in a call");
             Linea();

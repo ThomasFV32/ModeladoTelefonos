@@ -1,13 +1,12 @@
 using System;
 using Entity;
-using Interface;
 using Class;
+using Interface;
 namespace Phone
 {
-    public class CPhone
+    public class COldPhone
     {
         private ICalleable calleable;
-        private ILContact schedule;
         public string ToCall(ICalleable calleable,Contact contact, DateTime startTime)
         {
             return calleable.ToCall(contact,startTime);
@@ -19,16 +18,6 @@ namespace Phone
         public string CutCall(ICalleable calleable, DateTime endTime)
         {
             return calleable.CutCall(endTime);
-        }
-
-        public string SaveContact(Contact contact)
-        {
-            return schedule.SaveContact(contact);
-        }
-
-        public string DeleteContact(int number)
-        {
-            return schedule.DeleteContact(number);
         }
     }
 }
