@@ -8,13 +8,6 @@ namespace Modelado
     {
         static void Main(string[] args)
         {
-            MotorolaDynaTAC moto= new MotorolaDynaTAC();
-            moto.recibeCall(1160080562);
-            moto.ToCall(1160080562);
-            System.Threading.Thread.Sleep(2000);
-            moto.CutCall();
-            moto.CutCall();
-
         }
     }
 }

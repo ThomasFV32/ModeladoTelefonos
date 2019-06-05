@@ -2,7 +2,8 @@ using System;
 using Entity;
 using Interface;
 
-namespace Class {
+namespace Class
+{
     public class CCalleable : ICalleable {
 
         protected Contact contactCall= null;

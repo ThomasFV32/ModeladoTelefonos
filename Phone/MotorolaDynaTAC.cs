@@ -12,9 +12,9 @@ namespace Phone
         {
             if(calleable==null)
             {
-            calleable = new CCalleable();
-            var contact = new Contact(number,number.ToString());
-            Console.WriteLine(phone.ToCall(calleable,contact,DateTime.Now));
+                calleable = new CCalleable();
+                var contact = new Contact(number,number.ToString());
+                Console.WriteLine(phone.ToCall(calleable,contact,DateTime.Now));
             }
             else Console.WriteLine("Is already in a call");
             Linea();
