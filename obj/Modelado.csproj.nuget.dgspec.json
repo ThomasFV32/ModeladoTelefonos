@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\ModeladoTelefonos\\Modelado.csproj": {}
+    "C:\\Users\\Thomas\\Desktop\\Modelado\\Modelado.csproj": {}
   },
   "projects": {
-    "C:\\src\\ModeladoTelefonos\\Modelado.csproj": {
+    "C:\\Users\\Thomas\\Desktop\\Modelado\\Modelado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\ModeladoTelefonos\\Modelado.csproj",
+        "projectUniqueName": "C:\\Users\\Thomas\\Desktop\\Modelado\\Modelado.csproj",
         "projectName": "Modelado",
-        "projectPath": "C:\\src\\ModeladoTelefonos\\Modelado.csproj",
-        "packagesPath": "C:\\Users\\Thomas Fermoselle\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\ModeladoTelefonos\\obj\\",
+        "projectPath": "C:\\Users\\Thomas\\Desktop\\Modelado\\Modelado.csproj",
+        "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thomas\\Desktop\\Modelado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Thomas Fermoselle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
